@@ -14,3 +14,5 @@ java SocketServer [port]
 5. 위 과정이 완료되면 본 안드로이드 앱으로 버튼 누름.
 
 6. cmd와 앱 메인 액티비티에서 결과 확인 가능.
+
+7. 서버의 IP는 cmd에서 ipconfig를 치면 나오는 IPv4를 입력하면 된다.
